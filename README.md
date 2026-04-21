@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Vấn Đề Sự Ẩn Mình Của Thiên Chúa
 
-## Getting Started
+Báo cáo nghiên cứu chuyên sâu về triết học và thần học toàn diện về sự ẩn mình của Thiên Chúa (Divine Hiddenness).
 
-First, run the development server:
+## Giới thiệu
+Dự án này là một ứng dụng web đọc sách (long-read) được xây dựng bằng Next.js, tập trung vào trải nghiệm đọc học thuật chuyên sâu. Nội dung phân tích lập luận của J.L. Schellenberg, các tư tưởng của Thomas Aquinas, Blaise Pascal và Thánh Gioan Thánh Giá.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Tính năng chính
+- **Giao diện đa chủ đề:** Hỗ trợ chế độ Sáng, Sepia (vàng ố) và Dark Mode.
+- **Mục lục thông minh:** Theo dõi tiến độ đọc và điều hướng nhanh.
+- **Trích dẫn tương tác:** Di chuột để xem chi tiết nguồn tham khảo ngay lập tức.
+- **Hình ảnh nghệ thuật:** Tích hợp tranh minh họa phong cách Phục Hưng và Lãng Mạn.
+- **Tối ưu hóa SEO:** Đầy đủ Metadata, OpenGraph và chuẩn học thuật.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Công nghệ sử dụng
+- Next.js 15+ (App Router)
+- Tailwind CSS
+- TypeScript
+- Framer Motion (Scroll animation)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Triển khai
+Dự án được triển khai tự động trên GitHub Pages thông qua GitHub Actions.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+© 2026 Báo Cáo Nghiên Cứu Chuyên Sâu
