@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     siteName: 'An Minh Thiên Chúa',
     images: [
       {
-        url: '/dark_night.png', // Sử dụng ảnh tranh Lãng mạn làm ảnh chia sẻ
+        url: '/Van-De-Su-An-Minh-Cua-Thien-Chua/dark_night.png', // Sử dụng ảnh tranh Lãng mạn làm ảnh chia sẻ
         width: 1200,
         height: 630,
         alt: 'Đêm Tối Của Linh Hồn - Divine Hiddenness',
@@ -54,9 +54,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Vấn Đề Sự Ẩn Mình Của Thiên Chúa',
+    title: 'Vấn Đề Sự Ẩn Mình Của Thiên Chúa - Báo Cáo Nghiên Cứu Chuyên Sâu',
     description: 'Tại sao một Thiên Chúa yêu thương lại im lặng? Khám phá vấn đề "Divine Hiddenness".',
-    images: ['/dark_night.png'],
+    images: ['/Van-De-Su-An-Minh-Cua-Thien-Chua/dark_night.png'],
     creator: '@anminhthienchua',
   },
   robots: {

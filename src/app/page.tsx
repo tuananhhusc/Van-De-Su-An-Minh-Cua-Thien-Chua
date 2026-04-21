@@ -426,7 +426,7 @@ export default function HomePage() {
               {/* IMAGE 1: Aquinas/Scholasticism */}
               <figure className="my-14 fade-section">
                 <div className="relative w-full aspect-[16/9] md:aspect-[21/9] rounded-xl overflow-hidden border border-border-subtle shadow-md">
-                   <Image src="/aquinas.png" alt="Thư viện kinh viện cổ đại" fill className="object-cover" />
+                   <Image src="/Van-De-Su-An-Minh-Cua-Thien-Chua/aquinas.png" alt="Thư viện kinh viện cổ đại" fill className="object-cover" />
                 </div>
                 <figcaption className="text-center mt-3 font-serif italic text-sm text-ink-muted px-4">
                   Trí tuệ kinh viện (Scholasticism) giữa ánh sáng siêu việt - Tranh phong cách cổ điển.
@@ -579,7 +579,7 @@ export default function HomePage() {
               {/* IMAGE 2: Dark Night */}
               <figure className="my-14 fade-section">
                 <div className="relative w-full aspect-[16/9] md:aspect-[21/9] rounded-xl overflow-hidden border border-border-subtle shadow-md">
-                   <Image src="/dark_night.png" alt="Đêm tối của linh hồn" fill className="object-cover" />
+                   <Image src="/Van-De-Su-An-Minh-Cua-Thien-Chua/dark_night.png" alt="Đêm tối của linh hồn" fill className="object-cover" />
                 </div>
                 <figcaption className="text-center mt-3 font-serif italic text-sm text-ink-muted px-4">
                   "Đêm tối của linh hồn": Một đan viện tĩnh lặng chìm trong ngàn sao - Tranh phong cách Lãng mạn.
